@@ -117,4 +117,5 @@
     <plugin name="cordova-plugin-x-toast" spec="~2.6.0" />
     <plugin name="cordova-sqlite-evcore-extbuild-free" spec="~0.8.6" />
     <plugin name="cordova-plugin-actionsheet" spec="~2.3.3" />
+    <gap:plugin name="de.appplant.cordova.plugin.local-notification" />
 </widget>
