@@ -124,4 +124,8 @@
     <plugin name="cordova-plugin-mqtt" spec="~0.3.8" />
     <plugin name="cordova-plugin-video-thumbnail" spec="~2.0.1" />
     <plugin name="cordova-plugin-streaming-media" spec="~1.0.2" />
+    <plugin name="phonegap-facebook-plugin" spec="https://github.com/Wizcorp/phonegap-facebook-plugin.git">
+        <variable name="APP_ID" value="1843222999341035" />
+        <variable name="APP_NAME" value="Market One" />
+    </plugin>
 </widget>
